@@ -1,256 +1,273 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    AESTHETIC HEADER                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=Hafsa%20Yousuf&fontSize=55&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Developer&descAlignY=52&descAlign=50&fontColor=c084fc&descSize=18" width="100%"/>
-<br/>
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║              PIXEL FONT TYPING ANIMATION                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=c084fc&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-<br/><br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                  PROFILE VIEWS COUNTER                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=HHKtech&label=%F0%9F%91%BE%20Profile%20Views&color=8b5cf6&style=flat" alt="Profile Views" />
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    ABOUT ME SECTION                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- Animated Header with Blue/Purple Theme -->
 <div align="center">
-🎮 About Me
-</div>
-<div align="center">
-plain
-╔══════════════════════════════════════════════════════════════╗
-║  👾  Hello! I'm Hafsa Yousuf (HHKtech)                       ║
-║                                                              ║
-║  💻  Full Stack Developer & Java Backend Developer           ║
-║  ⚙️  Backend-focused with Spring Boot & REST APIs            ║
-║  🎨  Building responsive frontend with React & Next.js       ║
-║  🤖  Exploring AI integration in real-world apps             ║
-║  📚  Currently learning System Design, Docker, Cloud         ║
-║  🌱  Always improving problem-solving skills                 ║
-╚══════════════════════════════════════════════════════════════╝
-</div>
-<br/>
-<div align="center">
-Table
-💡 Speciality	🎯 Current Focus	💬 Ask Me About
-Full Stack Development, Java Backend, REST APIs & Database Design	Scalable apps, Microservices & Cloud Architecture	Java, Spring Boot, React, Next.js, System Design
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    TECH STACK SECTION                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-🛡️ Tech Stack
-Hover nahi kar sakte yahan, but har badge pe naam likha hai! 😄
-</div>
-<br/>
-<div align="center">
-💻 Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b" />
-<br/><br/>
-⚛️ Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e1b4b" />
-<br/><br/>
-🔧 Backend
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b" />
-<br/><br/>
-🗄️ Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b" />
-<br/><br/>
-🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1b4b" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1b4b" />
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    GITHUB STATS SECTION                     ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-📈 GitHub Stats
-</div>
-<br/>
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:a8edea&height=100&section=header&text=✨%20HAFSA%20YOUSUF%20✨&fontSize=44&fontColor=ffffff&fontAlignY=54&animation=fadeIn" width="100%" />
+  
+  <br>
+  
   <a href="https://github.com/HHKtech">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=HHKtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c084fc&icon_color=8b5cf6&text_color=c9d1d9&border_radius=15" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/HHKtech">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHKtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=c084fc&text_color=c9d1d9&border_radius=15" alt="Top Languages" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast+%7C+Clean+Code+Lover;Java+%7C+Python+%7C+React;Let's+Build+Something+Amazing!+%F0%9F%9A%80" />
   </a>
 </div>
-<br/>
-<div align="center">
+
+<p align="center">
+  <i>
+    <code>Full Stack Dev</code> &nbsp;✦&nbsp; <code>AI Builder</code> &nbsp;✦&nbsp; <code>Clean Code Addict</code>
+  </i>
+  <br>
+  <sub>💜 Currently breaking Java & Python, one bug at a time</sub>
+</p>
+
+</div>
+
+---
+
+### 💙 About Me
+
+**Full Stack Dev + AI Builder** who loves clean architecture more than clean rooms.
+
+**I do:**
+- 🖥️ Frontend (React, Vite, Tailwind —> smooth UIs)
+- ⚙️ Backend (Java, Spring Boot, Node —> solid APIs)  
+- 🗄️ Databases (PostgreSQL, MySQL, MongoDB —> structured data)
+- 🤖 AI (NLP, chatbots, ML integrations —> smart features)
+
+**Currently mastering:** System design, advanced Java patterns, and writing code that doesn't need a comment to explain itself.
+
+**Let's connect:** <p align="center">
   <a href="https://github.com/HHKtech">
-    <img src="https://streak-stats.demolab.com?user=HHKtech&theme=tokyonight&hide_border=true&background=0f172a&stroke=c084fc&ring=c084fc&fire=e94560&currStreakLabel=c084fc&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=15" alt="GitHub Streak" />
+    <img src="https://img.shields.io/badge/GitHub-HHKtech-667eea?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                  FEATURED PROJECTS SECTION                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-🌟 Featured Projects
-</div>
-<br/>
-<div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                     PROJECT 1: SkillmatriX                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🚀 SkillmatriX
-AI-powered Resume Analyzer & Career Development Platform
-<br/>
-<table>
-<tr>
-<td align="center">
-  <img src="https://via.placeholder.com/420x220/1e1b4b/c084fc?text=🚀+SkillmatriX+Preview" style="border-radius: 20px;" width="420" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-🛠️ Tech Stack:
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<br/><br/>
-✨ Features:
-Table
-Feature	Description
-📝	Resume Builder
-🔍	Resume Analysis
-🤖	AI Recommendations
-📊	Skill Gap Analysis
-🎯	Job Matching
-<br/>
-</td>
-</tr>
+  <a href="https://linkedin.com/in/hafsa-yousuf">
+    <img src="https://img.shields.io/badge/LinkedIn-Hafsa%20Yousuf-764ba2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hhafiza2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-a8edea?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⭐ Top 3 Projects
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 AI Chatbot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-667eea?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-764ba2?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-a8edea?style=flat-square&logoColor=white" />
+      </p>
+      <p><b>Context-aware AI companion</b> with voice recognition, speech synthesis & persistent memory. Multi-personality interactions with intelligent responses. Features real-time NLP processing and adaptive learning from conversation history.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-a8edea?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🐾 Pet Haven</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-667eea?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-764ba2?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVC-a8edea?style=flat-square&logoColor=white" />
+      </p>
+      <p><b>E-commerce desktop app</b> with user auth, product CRUD, shopping cart & transaction processing. Clean MVC architecture with role-based access control, inventory management, and secure payment flow.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-a8edea?style=flat-square" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 SkillmatriX</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-667eea?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-764ba2?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-a8edea?style=flat-square&logoColor=white" />
+      </p>
+      <p><b>AI resume analyzer & career platform</b> with skill gap detection and personalized job matching using ML algorithms. Parses resumes, extracts skills, compares against market trends & suggests learning paths.</p>
+      <p align="center">
+        <a href="https://github.com/cyber01012/SkillMatriX"><b>[ View Repo 🔗 ]</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
-<br/><br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                     PROJECT 2: NeXora                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🌍 NeXora
-Smart Disaster & Civic Management System
-<br/>
-<table>
-<tr>
-<td align="center">
-  <img src="https://via.placeholder.com/420x220/1e1b4b/c084fc?text=🌍+NeXora+Preview" style="border-radius: 20px;" width="420" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-🛠️ Tech Stack:
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<br/><br/>
-✨ Features:
-Table
-Feature	Description
-🏠	Citizen Portal
-🚨	Emergency Response System
-🤝	NGO Portal
-🗺️	Heatmaps
-🚑	Smart Resource Dispatch
-📊	Disaster Management Dashboard
-<br/>
-</td>
-</tr>
+
+---
+<details>
+<summary><h3>🌍 More Projects &nbsp;<sub>(click to expand)</sub></h3></summary>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📚 Star Coaching</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-667eea?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-764ba2?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/EmailJS-a8edea?style=flat-square&logoColor=white" />
+      </p>
+      <p><b>Educational coaching platform</b> with responsive design, smooth animations & EmailJS integration for client communication. Fully responsive landing pages with modern UI/UX patterns.</p>
+      <p align="center">
+        <a href="https://star-coaching-topcity-islamabad.vercel.app/"><b>[ Live Demo 🌐 ]</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌍 NeXora</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-667eea?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-764ba2?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-a8edea?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p><b>Smart disaster & civic management system</b> with real-time emergency alerts, geolocation tracking, disaster heatmaps & intelligent resource dispatch. Features live updates and role-based dashboards.</p>
+      <p align="center">
+        <a href="https://github.com/cyber01012/NeXora"><b>[ View Repo 🔗 ]</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔄 SkillSync AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-667eea?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL%20Server-764ba2?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-a8edea?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Skill%20DNA-667eea?style=flat-square&logoColor=white" />
+      </p>
+      <p><b>Freelance Platform & Skill DNA Engine</b> with hybrid SQL+NoSQL architecture. Algorithmic SkillScore calculations, dynamic competency profiling, and precise job matching through multi-dimensional skill vectors.</p>
+      <p align="center">
+        <a href="https://github.com/cyber01012/SkillSync"><b>[ View Repo 🔗 ]</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                 CURRENTLY LEARNING SECTION                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-📚 Currently Learning
-</div>
-<br/>
-<div align="center">
-plain
-╔══════════════════════════════════════════════════════════════════════╗
-║  System Design  │  Docker  │  Microservices  │  Cloud Computing     ║
-║  CI/CD          │  Design Patterns  │  Clean Architecture          ║
-╚══════════════════════════════════════════════════════════════════════╝
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    GOALS SECTION                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-🎯 Goals for 2026
-</div>
-<br/>
-<div align="center">
-Table
-🎯 Goal	📊 Status
-🚀 Build impactful Full Stack applications	🟡 In Progress
-☁️ Learn Cloud Deployment	🟡 In Progress
-🐳 Master Docker	🟡 In Progress
-📚 Strengthen Data Structures & Algorithms	🟡 In Progress
-🤖 Build more AI-powered projects	🟡 In Progress
-🌍 Contribute to Open Source	⚪ Not Started
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                 DEVELOPER PHILOSOPHY                        ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-💡 Developer Philosophy
-</div>
-<br/>
-<div align="center">
-"Great software isn't just about writing code—it's about solving real problems with clean architecture, scalable design, and continuous learning."
-</div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                 CONNECT WITH ME SECTION                     ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-📫 Connect With Me
-</div>
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/hafsa-yousuf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn" />
+
+</details>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <b>🔥 Languages I'm Deep In</b><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>💖 Frontend Mastery</b><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>💙 Backend & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🌟 Databases & Tools</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🤖 AI & Automation</b><br>
+  <img src="https://img.shields.io/badge/ChatBot-a8edea?style=for-the-badge&labelColor=667eea" />
+  <img src="https://img.shields.io/badge/Voice%20Recognition-fed6e3?style=for-the-badge&labelColor=764ba2" />
+  <img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge&labelColor=667eea" />
+  <img src="https://img.shields.io/badge/ML%20Integration-10B981?style=for-the-badge&labelColor=764ba2" />
+</p>
+
+<p align="center">
+  <b>⚙️ Development Tools</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 💼 Professional Experience & Leadership
+
+```
+LEADERSHIP
+Class Representative (CR) – SSUET
+├─ Coordinated seamless communication between students & faculty
+├─ Managed academic initiatives & class concerns
+└─ Demonstrated strong organizational & interpersonal skills
+```
+
+### 💪 Core Soft Skills
+
+<p align="center">
+  <b>Problem Solving</b> • <b>Leadership</b> • <b>Communication</b> • <b>Creativity</b> • <b>Teamwork</b> • <b>Time Management</b> • <b>Adaptability</b>
+</p>
+
+---
+
+### 📚 Currently Mastering
+
+```
+🔹 Deep Java & Python Proficiency — OOP, design patterns, algorithmic thinking
+🔹 Advanced Frontend Architecture — Reusable components, state management, optimization
+🔹 Reusable Component Patterns — Forms, validation, custom hooks, composition
+🔹 System Design & Architecture — From database schemas to API to frontend organization
+```
+
+---
+
+### 🎯 Technical Expertise
+
+**Backend Architecture** — Designing scalable systems with separation of concerns, clean code & maintainable structure
+
+**Database Design** — Modeling complex data relationships, query optimization, indexing strategies & integrity
+
+**Frontend Engineering** — Building responsive interfaces, component composition, state management & smooth UX
+
+**Full Stack Integration** — Seamlessly connecting backend APIs with frontend using REST conventions & error handling
+
+**API Development** — Creating robust REST APIs with authentication, validation, proper HTTP semantics & documentation
+
+**Clean Code Philosophy** — Writing readable, maintainable code following industry-standard patterns & best practices
+
+---
+
+### 🤝 Let's Connect & Build Together
+
+💼 **Open to:** Full Stack Development • AI Solutions • Freelance Projects • Technical Collaborations
+
+<p align="center">
+  <a href="https://github.com/HHKtech">
+    <img src="https://img.shields.io/badge/GitHub-HHKtech-667eea?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hhafiza2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Gmail" />
+  <a href="https://linkedin.com/in/hafsa-yousuf">
+    <img src="https://img.shields.io/badge/LinkedIn-Hafsa%20Yousuf-764ba2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/HHKtech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub" />
+  <a href="mailto:hhafiza2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-a8edea?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-<br/>
+</p>
+
+---
+
 <div align="center">
-⭐ Thanks for visiting my profile!
-"Code. Learn. Build. Repeat."
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=a8edea&center=true&vCenter=true&width=500&lines=Code+Learn+Build+Repeat;Made+with+%F0%9F%92%9C+and+lots+of+passion" alt="Footer" />
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=HHKtech&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+  <br><br>
+
+  <i>"Crafting intelligent systems with clean code, beautiful design & continuous growth." ✨</i>
+
 </div>
-<br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║                    AESTHETIC FOOTER                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=130&section=footer" width="100%"/>
