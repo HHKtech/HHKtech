@@ -39,7 +39,7 @@
   <a href="https://github.com/HHKtech">
     <img src="https://img.shields.io/badge/GitHub-HHKtech-667eea?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hafsa-yousuf">
+  <a href="https://www.linkedin.com/in/hafsa-yousuf-6bb107334">
     <img src="https://img.shields.io/badge/LinkedIn-Hafsa%20Yousuf-764ba2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hhafiza2006@gmail.com">
@@ -248,7 +248,7 @@ Class Representative (CR) – SSUET
   <a href="https://github.com/HHKtech">
     <img src="https://img.shields.io/badge/GitHub-HHKtech-667eea?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hafsa-yousuf">
+  <a href="https://www.linkedin.com/in/hafsa-yousuf-6bb107334">
     <img src="https://img.shields.io/badge/LinkedIn-Hafsa%20Yousuf-764ba2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hhafiza2006@gmail.com">
